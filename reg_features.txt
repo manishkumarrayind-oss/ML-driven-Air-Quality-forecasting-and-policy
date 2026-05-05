@@ -1,0 +1,14 @@
+pm25
+pm25_lag1
+pm25_lag7
+pm25_roll7
+pm25_roll14
+pm25_std7
+month
+dayofweek
+is_winter
+pm10
+no2
+so2
+co
+o3
